@@ -50,5 +50,5 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [Add your name here](bamfa-portfolio.vercel)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/BCEESAY10)
+- Website - [bamfa-portfolio.vercel]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/BCEESAY10]
