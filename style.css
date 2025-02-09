@@ -69,6 +69,10 @@ body {
     text-transform: uppercase;
     letter-spacing: 3px;
   }
+  .brand-name{
+    font-size: 24px;
+    margin: 10px 0;
+  }
   
 
 /* Responsive Layout for Larger Screens */
