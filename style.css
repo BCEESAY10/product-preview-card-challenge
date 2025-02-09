@@ -65,6 +65,10 @@ body {
   .container .card .text{
     padding: 20px;
   }
+  .perfume{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+  }
   
 
 /* Responsive Layout for Larger Screens */
